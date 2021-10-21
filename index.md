@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Mence to GitHub Pages
+
+esta es una prueba de Github pages con temas de jekyll
 
 You can use the [editor on GitHub](https://github.com/michaelmence/1-test-repository-withtheme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,12 +13,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Acerca de la clase
+## Proyectos
+### Notas
 
-- Bulleted
-- List
+los estudiantes destacados
+
+- michael 
+- mence
+- figueroa
 
 1. Numbered
 2. List
